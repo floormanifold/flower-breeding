@@ -106,7 +106,7 @@ public class FlowerBreeding {
 				start = new int[] {2,6,19,21,23,25};
 			}
 			else {
-				start = new int[] {2,6,19,4,10,11,12,13,18,20,9,22,0,1,3,23,26,16,14};
+				start = new int[] {2,6,19};
 			}
 			break;
 		case "Hyacinth":
